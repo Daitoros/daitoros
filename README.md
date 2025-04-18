@@ -36,12 +36,15 @@ Atualmente, curso o 4º período de **Análise e Desenvolvimento de Sistemas na 
 
 ## 📌 Projetos em Destaque
 
-- 🔗 **Protótipo para Fomento de Práticas Esportivas em Praças Públicas**  
-  _Desenvolvimento de telas para aplicativo integrando práticas esportivas e comércio local._  
-  _Entrevistas, personas e levantamento de funcionalidades._  
-  _Realizado no programa Jovens Cientistas Cariocas (Abril–Setembro/2024)_
+- 🎮 **[GameRPGCAW](https://github.com/Daitoros/GameRPGCAW)**  
+  _Protótipo de RPG em HTML, CSS e JavaScript, com sistema de batalhas, personagens e interações._  
+  Desenvolvido como projeto prático para explorar lógica de programação, front-end e design de interfaces. (Utilizado alguns códigos de exercícios práticos do freeCodeCamp)
+  Tecnologias: HTML, CSS, JavaScript
 
-> 💡 *Me interesso por projetos de impacto social, tecnologia cidadã e transformação digital.*
+- 📱 **Protótipo para Fomento de Práticas Esportivas em Praças Públicas**  
+  _Aplicativo voltado à promoção de atividades físicas e integração com o comércio local._  
+  Desenvolvido no programa Jovens Cientistas Cariocas (Abril–Setembro/2024), com entrevistas, personas e levantamento de funcionalidades.  
+  🎥 [Assista ao vídeo do protótipo](https://youtu.be/j12_VdoS5Rs)
 
 ---
 
