@@ -10,7 +10,7 @@
 
 ## 🧠 Sobre mim
 
-Sou apaixonado por tecnologia, inovação e projetos que unem **inteligência artificial**, **desenvolvimento de software** e **análise de dados**. Tenho experiência com visualização de dados, desenvolvimento de dashboards e criação de aplicações web com foco em transformação digital e melhoria de políticas públicas.
+Sou apaixonado por tecnologia, inovação e projetos que unem **pesquisa e desenvolvimento de software** e **análise de dados**. Tenho experiência com visualização de dados, desenvolvimento de dashboards e criação de aplicações web com foco em transformação digital e melhoria de políticas públicas.
 
 Atualmente, curso o 4º período de **Análise e Desenvolvimento de Sistemas na Faeterj-Rio** e sou bolsista em iniciativas de pesquisa aplicada à inovação tecnológica.
 
